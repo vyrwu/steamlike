@@ -1,4 +1,4 @@
-// @desc SlideTransition(mode, targetRoom)
+	// @desc SlideTransition(mode, targetRoom)
 // @arg Mode sets transition mode
 // @arg Target sets target room when using the GOTO mode
 

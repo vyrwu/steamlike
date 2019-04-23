@@ -26,7 +26,7 @@ if (menu_control) {
 
 if (menu_x > gui_width + 150) && (menu_commited != -1) {
 	switch (menu_commited) {
-		case 2: { break; }
+		// case 2: { break; }
 		default: {
 			SlideTransition(TRANS_MODE.NEXT);
 			break;
